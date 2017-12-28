@@ -1,3 +1,2 @@
 # LiveIM.SocketIo
-# yes
 
